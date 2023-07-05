@@ -1,0 +1,2 @@
+"applicationUrl": "http://localhost:21799",
+http://192.168.1.169:5247/swagger/index.html
