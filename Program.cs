@@ -1,3 +1,4 @@
+global using _20230705ApiA.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
